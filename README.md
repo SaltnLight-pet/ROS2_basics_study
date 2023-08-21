@@ -1,1 +1,1 @@
-# ROS2_basis_study
+# ROS2_basics_study
