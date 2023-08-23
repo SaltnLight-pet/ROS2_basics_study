@@ -14,6 +14,6 @@
 6. 파라미터 다루기
 
 ## 참고 자료
-- [ROS2 혼자공부하는 로봇SW 직접 만들고 코딩하자] (저자:민형기)
+- [ROS2 혼자공부하는 로봇SW 직접 만들고 코딩하자] (저자:민형기)   
 ![ROS2 혼자공부하는 로봇SW 직접 만들고 코딩하자](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191198041.jpg)
 - [PinkLAB 유튜브] : https://youtu.be/eSRvY2sFm_Y
