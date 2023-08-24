@@ -1,10 +1,14 @@
 # ROS2_basics_study
 
 ## 개요
-
 - [ROS2 혼자 공부하는 로봇SW 직접만들고 코딩하자](저자: 민형기)를 참고하여 작성되었습니다. 
 - ROS2를 입문하면서 알아야할 구성에 대해 공부하며 기록하였습니다.
-- 환경 : Ubuntu 20.04, ROS2 Galactic
+#### [개발 환경]
+|목록|VERSION|
+|:--|:--:|
+|Ubuntu|18.04.6 LTS (Bionic Beaver)| 
+|ROS|ROS Melodic Morenia| 
+|MORAI simulator|22.R4.|
 
 ## 구성 (추가 예정)
 1. Python을 활용한 토픽 다루기
