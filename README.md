@@ -22,7 +22,7 @@
 |목록|내용|
 |:--:|:--:|
 |관련 도서|<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191198041.jpg" width="400"><br>[ROS2 혼자공부하는 로봇SW 직접 만들고 코딩하자] (저자:민형기)|
-|관련 영상|- [PinkLAB 유튜브](https://www.youtube.com/watch?v=eSRvY2sFm_Y&list=PL83j7f4UkozEkZt7DXePdYNkjx76TxBT0)<br>- [PinkWink의 ROS2 기초]|
+|관련 영상|[PinkLAB 유튜브](https://www.youtube.com/watch?v=eSRvY2sFm_Y&list=PL83j7f4UkozEkZt7DXePdYNkjx76TxBT0) : [PinkWink의 ROS2 기초]|
 
 ## 추가 예정
 - [ ] 구성 내용 추가하기
