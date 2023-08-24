@@ -6,9 +6,9 @@
 #### [개발 환경]
 |목록|VERSION|
 |:--|:--:|
-|Ubuntu|18.04.6 LTS (Bionic Beaver)| 
-|ROS|ROS Melodic Morenia| 
-|MORAI simulator|22.R4.|
+|Ubuntu|Ubuntu 20.04.6 LTS (Focal Fossa)| 
+|ROS|Galactic Geochelone| 
+
 
 ## 구성 (추가 예정)
 1. Python을 활용한 토픽 다루기
